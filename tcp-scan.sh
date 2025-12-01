@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# A script I made because rustscan just filters all of the ports because it's too fast. So I just wanted to make this script so that I can actually freaking enumerate
+# A script I made because rustscan just filters all of the ports because it's too fast. So I just wanted to make this script so that I can actually freaking enumerate on AD boxes
 
 target=$1
 
